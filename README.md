@@ -61,6 +61,7 @@ The application should now be running on \`http://localhost:3000\`.
 
 
 
+
 ## Contributing
 
 Contributions are welcome! If you have suggestions or improvements, feel free to create an issue or submit a pull request.
@@ -74,3 +75,6 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 - React documentation
 - Tailwind CSS documentation (if used)
 - Any other resources or libraries used
+OUTPUT
+<img width="1132" alt="Screenshot 2024-07-05 at 7 51 57 PM" src="https://github.com/Srinivas-559/CODTECH---Task1/assets/126645177/0ee2e875-284f-4a7d-a6d1-86ca0853dc35">
+
